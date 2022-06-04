@@ -8,5 +8,7 @@
 * Flujo de trabajo en github
 * Etc
 * Creado por el increible troxmort team.
+* Incluye ejemplo en diferentes sistemas operativos
+* Disuponible para todas las edades
 
 Y como un recordartorio, este **readme.md es un chiste**, ya que estoy aprendiendo.
