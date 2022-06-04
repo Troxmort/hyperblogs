@@ -7,5 +7,6 @@
 * Todos los comandos de git
 * Flujo de trabajo en github
 * Etc
+* Creado por el increible troxmort team.
 
 Y como un recordartorio, este **readme.md es un chiste**, ya que estoy aprendiendo.
